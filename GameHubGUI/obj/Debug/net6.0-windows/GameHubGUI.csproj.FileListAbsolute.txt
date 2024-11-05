@@ -1,0 +1,15 @@
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\GameHubGUI.exe
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\GameHubGUI.deps.json
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\GameHubGUI.runtimeconfig.json
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\GameHubGUI.dll
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\GameHubGUI.pdb
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.csproj.AssemblyReference.cache
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.AssemblyInfoInputs.cache
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.AssemblyInfo.cs
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.dll
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\refint\GameHubGUI.dll
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.pdb
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.genruntimeconfig.cache
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\ref\GameHubGUI.dll
