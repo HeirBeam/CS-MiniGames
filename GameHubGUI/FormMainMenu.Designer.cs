@@ -18,6 +18,16 @@ namespace GameHubGUI
 
         private void InitializeComponent()
         {
+            this.SuspendLayout();
+
+            // FormMainMenu properties
+            this.ClientSize = new System.Drawing.Size(320, 400);  // Set form size as needed
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;  // Set to fixed dialog
+            this.MaximizeBox = false;  // Disable maximize button
+            this.Name = "FormMainMenu";
+            this.Text = "Main Menu";
+            this.ResumeLayout(false);
+            
             this.btnTicTacToe = new System.Windows.Forms.Button();
             this.btnHangman = new System.Windows.Forms.Button();  // Initialize the new button
             this.btnExit = new System.Windows.Forms.Button();

@@ -21,6 +21,16 @@ namespace GameHubGUI
 
         private void InitializeComponent()
         {
+            this.SuspendLayout();
+
+            // FormHangman properties
+            this.ClientSize = new System.Drawing.Size(340, 400);  // Set form size as needed
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;  // Set to fixed dialog
+            this.MaximizeBox = false;  // Disable maximize button
+            this.Name = "FormHangman";
+            this.Text = "Hangman";
+            this.ResumeLayout(false);
+
             this.lblWordDisplay = new System.Windows.Forms.Label();
             this.lblAttempts = new System.Windows.Forms.Label();
             this.lblIncorrectLetters = new System.Windows.Forms.Label();  // Initialize incorrect letters label
