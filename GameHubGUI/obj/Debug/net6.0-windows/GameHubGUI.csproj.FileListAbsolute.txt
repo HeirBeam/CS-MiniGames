@@ -13,3 +13,10 @@ C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows
 C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.pdb
 C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\GameHubGUI.genruntimeconfig.cache
 C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\obj\Debug\net6.0-windows\ref\GameHubGUI.dll
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\Resources\hangman0.png
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\Resources\hangman1.png
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\Resources\hangman2.png
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\Resources\hangman3.png
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\Resources\hangman4.png
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\Resources\hangman5.png
+C:\Users\ibrah\Documents\GitHub\CS-MiniGames\GameHubGUI\bin\Debug\net6.0-windows\Resources\hangman6.png

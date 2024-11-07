@@ -19,8 +19,8 @@ namespace GameHubGUI
 
         private void btnHangman_Click(object sender, EventArgs e)
         {
-            // Display message indicating Hangman is under development
-            MessageBox.Show("Hangman is under development. Stay tuned!");
+            FormHangman hangmanForm = new FormHangman();
+            hangmanForm.Show();
         }
 
         private void btnExit_Click(object sender, EventArgs e)
